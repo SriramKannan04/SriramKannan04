@@ -70,7 +70,7 @@
 
 <div align="left">
   <img src="https://icon-icons.com/download-file?file=https%3A%2F%2Fimages.icon-icons.com%2F2415%2FPNG%2F512%2Fmysql_original_wordmark_logo_icon_146417.png&id=146417&pack_or_individual=pack" 
-    height="460" alt="mySQL Logo"/>
+    height="60" alt="mySQL Logo"/>
   <img width="12" />
   
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/sql-server-icon.png" height="60" alt="MSSQL Logo"  />
