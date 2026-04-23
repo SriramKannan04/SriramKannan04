@@ -1,12 +1,12 @@
 <div align="center">
-  <img height="150" src="https://nationalcioreview.com/wp-content/uploads/2025/09/TNCR-graphics-KB-2.gif"/>
+  <img src="https://nationalcioreview.com/wp-content/uploads/2025/09/TNCR-graphics-KB-2.gif" alt="coding image" height="150">
 </div>
 
 ###
 
 ###
 
-<h1 align="center">hey 👋 am Sriram Kannan</h1>
+<h1 align="center">hey 👋 I'm Sriram Kannan</h1>
 
 ###
 
