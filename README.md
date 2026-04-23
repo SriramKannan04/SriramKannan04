@@ -19,29 +19,44 @@
 <p>📌 Chennai, India</p>
 
 ###
+<br/>
 
-<h3 align="left">🛠 Language and tools</h3>
-
-###
+<h3 align="left">🛠 Languages</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img src="https://cdn-icons-png.flaticon.com/128/15147/15147749.png" height="40" alt="JS Logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+  
+  <img src="https://cdn-icons-png.flaticon.com/128/8744/8744719.png" height="40" alt="TS Logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
+  
+  <img src="https://cdn-icons-png.flaticon.com/128/6132/6132221.png" height="40" alt="C# Logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
+  
+  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" height="40" alt="Python Logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  
+  <img src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png" height="40" alt="C++ Logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+</div>
+
+<h3 align="left">Front End</h3>
+
+<div align="left">
+  <img src="https://cdn-icons-png.flaticon.com/128/3334/3334886.png" height="40" alt="ReactJs Logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
+  
+  <img src="https://cdn-icons-png.flaticon.com/128/15484/15484402.png" height="40" alt="Angular Logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  
+  <img src="https://miro.medium.com/0*6ndNj0JPbm_RzJu2" height="40" alt="NextJS Logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  
+  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" height="40" alt="Python Logo"  />
+  <img width="12" />
+  
+  <img src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png" height="40" alt="C++ Logo"  />
+  <img width="12" />
 </div>
 
 ###
