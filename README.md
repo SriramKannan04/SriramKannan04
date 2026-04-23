@@ -5,6 +5,5 @@
         </span>
         I'm Sriram Kannan
     </h1>
-    
-    
-    <h3 align="center">Versatile Full Stack Developer with 2.2 years of Expertise in Client and Server sides.</h3>
+
+
