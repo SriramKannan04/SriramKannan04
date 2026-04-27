@@ -24,7 +24,7 @@
 <h3 align="left">Languages</h3>
 
 <div align="left">
-  <img src="https://cdn-icons-png.flaticon.com/128/15147/15147749.png" height="30" alt="JS Logo"  />
+  <img src="https://cdn-icons-png.flaticon.com/128/15147/15147749.png" height="40" alt="JS Logo"  />
   <img width="12" />
   
   <img src="https://cdn-icons-png.flaticon.com/128/8744/8744719.png" height="40" alt="TS Logo"  />
