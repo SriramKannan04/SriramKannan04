@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://nationalcioreview.com/wp-content/uploads/2025/09/TNCR-graphics-KB-2.gif" alt="coding image" height="150">
+  <img src="https://nextjs-mitesh-portfolio.vercel.app/_next/static/media/profilegif.9b5fc05a.gif" alt="coding image" height="350">
 </div>
 
 ###
