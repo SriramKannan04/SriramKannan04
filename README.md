@@ -69,14 +69,14 @@
 <h3 align="left">Database</h3>
 
 <div align="left">
-  <img src="https://icon-icons.com/download-file?file=https%3A%2F%2Fimages.icon-icons.com%2F2415%2FPNG%2F512%2Fmysql_original_wordmark_logo_icon_146417.png&id=146417&pack_or_individual=pack" 
-    height="60" alt="mySQL Logo"/>
+  <img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png?utm_source=wikitech.wikimedia.org&utm_campaign=index&utm_content=original" 
+    height="30" alt="mySQL Logo"/>
   <img width="12" />
   
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/sql-server-icon.png" height="50" alt="MSSQL Logo"  />
   <img width="12" />
   
-  <img src="https://icon-icons.com/download-file?file=https%3A%2F%2Fimages.icon-icons.com%2F2699%2FPNG%2F512%2Fpostgresql_logo_icon_170836.png&id=170836&pack_or_individual=pack" height="50" alt="PostgreSQL Logo"  />
+  <img src="https://miro.medium.com/0*epnKnkKuLx2RAajt" height="50" alt="PostgreSQL Logo"  />
   <img width="12" />
 </div>
 
